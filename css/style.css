@@ -12,7 +12,7 @@ body{
  margin-top: 225px;
 }
 .hero-section {
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url(/assests/background.jpg);
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%), url('assests/background.jpg');
   height: 100vh;
   width: 100vw;
   background-size: cover;
